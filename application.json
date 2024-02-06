@@ -8,6 +8,9 @@
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "hiddenJSLibs": []
+  },
   "color": "#E3DEFF",
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
